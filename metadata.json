@@ -1,0 +1,5 @@
+{
+  "name": "Persona Trivia",
+  "description": "A dynamic trivia game featuring an AI host with customizable personalities, real-time voice modes, and up-to-date questions.",
+  "requestFramePermissions": ["microphone"]
+}
